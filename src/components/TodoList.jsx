@@ -3,7 +3,7 @@ import TodoItem from './TodoItem';
 
 const TodoList = ({ todos, deleteTodo, toggleComplete }) => {
     return (
-        <div className="md:w-6/12 mx-auto mt-6 space-y-3">
+        <div className="md:w-6/12 mx-auto mt-6 space-y-3 overflow-y-auto">
             {todos.length === 0 ? (
                 <p className="text-center text-gray-500 p-4 bg-white rounded-lg shadow-md">
                     No tasks yet! Add a new item above.
