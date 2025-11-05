@@ -1,6 +1,5 @@
-import { toast } from "react-toastify";
+import React from "react";
 
-// TodoItem.jsx
 const TodoItem = ({ todo, deleteTodo, toggleComplete }) => {
     return (
         <div className="flex items-center justify-between p-4 bg-white border border-gray-200 rounded-lg shadow-sm">
