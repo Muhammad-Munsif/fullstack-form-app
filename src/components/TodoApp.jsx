@@ -7,6 +7,7 @@ const TodoApp = () => {
     
     const handleTodo = () => {
         if (input.trim() === ''){
+            
             return;
         }
 
