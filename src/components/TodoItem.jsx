@@ -5,35 +5,35 @@ const TodoItem = () => {
     <div>
       <form action="">
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
         <div>
-          <label htmlFor=""></label>
+          <label htmlFor="">Name</label>
           <input type="text" />
         </div>
       </form>
